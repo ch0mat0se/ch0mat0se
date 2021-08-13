@@ -2,7 +2,7 @@
 - 👀 I’m interested in NFTs, gaming, and learning to code.
 - 🌱 I’m currently learning how to mint ERC 721 contracts.
 - 💞️ I’m looking to collaborate on NFTs
-- 📫 How to reach me - find my collection on Opensea! BROBOTS.io
+- 📫 email me: ch0mat0se@brobots.io
 - 🤖 BROBOTS.io
 
 <!---
